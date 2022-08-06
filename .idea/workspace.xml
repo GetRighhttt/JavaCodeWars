@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/ConvertStringToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/RepeatCharactersInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConvertStringToArray">
+  <component name="RunManager" selected="Application.RepeatCharactersInString">
     <configuration name="CalculateBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.CalculateBMI" />
       <module name="BasicProblems" />
@@ -76,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepeatCharactersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.RepeatCharactersInString" />
+      <module name="BasicProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnAName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.ReturnAName" />
       <module name="BasicProblems" />
@@ -89,20 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic.ReturnNumberBasedOnOperatorsAndInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ReturnNumberBasedOnOperatorsAndInput" />
-      <module name="BasicProblems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatCharactersInString" />
         <item itemvalue="Application.ConvertStringToArray" />
         <item itemvalue="Application.CalculateBMI" />
         <item itemvalue="Application.ReturnAName" />
         <item itemvalue="Application.ReduceArrayValuesToOneValue" />
-        <item itemvalue="Application.basic.ReturnNumberBasedOnOperatorsAndInput" />
       </list>
     </recent_temporary>
   </component>
