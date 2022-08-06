@@ -1,3 +1,5 @@
+package basic;
+
 public class StringSmashedTogether {
     /*
     Write a function that takes an array of words and smashes them together

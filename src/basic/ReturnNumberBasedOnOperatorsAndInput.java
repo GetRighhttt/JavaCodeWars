@@ -1,3 +1,5 @@
+package basic;
+
 public class ReturnNumberBasedOnOperatorsAndInput {
     public static void main(String[] args) {
         /*
