@@ -14,6 +14,13 @@ public class ReturnBinaryNumbers {
         System.out.println(fakeBin("101335168"));
     }
 
+    /*
+    Below we use the replaceALl() method to replace every String with a binary number given constraints.
+
+    We could also do it this way:
+            return str.chars().mapToObj(c -> c < '5' ? "0" : "1").collect(joining());
+
+     */
     public static String fakeBin(String numberString) {
         return numberString.replaceAll("[0-4]", "0").replaceAll("[5-9]", "1");
     }
