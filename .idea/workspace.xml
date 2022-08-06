@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReturnNumberBasedOnOperatorsAndInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ReduceArrayValuesToOneValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,33 +34,47 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReturnNumberBasedOnOperatorsAndInput">
-    <configuration name="IsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsEvenOrOdd" />
+  <component name="RunManager" selected="Application.ReduceArrayValuesToOneValue">
+    <configuration name="ReduceArrayValuesToOneValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ReduceArrayValuesToOneValue" />
+      <module name="BasicProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic.IsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.IsEvenOrOdd" />
       <module name="BasicProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnNumberBasedOnOperatorsAndInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnNumberBasedOnOperatorsAndInput" />
+    <configuration name="basic.ReturnNumberBasedOnOperatorsAndInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ReturnNumberBasedOnOperatorsAndInput" />
       <module name="BasicProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnOppositeOfPositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnOppositeOfPositiveNegative" />
+    <configuration name="basic.ReturnOppositeOfPositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ReturnOppositeOfPositiveNegative" />
       <module name="BasicProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSmashedTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSmashedTogether" />
+    <configuration name="basic.StringSmashedTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.StringSmashedTogether" />
       <module name="BasicProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,10 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReturnNumberBasedOnOperatorsAndInput" />
-        <item itemvalue="Application.ReturnOppositeOfPositiveNegative" />
-        <item itemvalue="Application.StringSmashedTogether" />
-        <item itemvalue="Application.IsEvenOrOdd" />
+        <item itemvalue="Application.ReduceArrayValuesToOneValue" />
+        <item itemvalue="Application.basic.ReturnNumberBasedOnOperatorsAndInput" />
+        <item itemvalue="Application.basic.ReturnOppositeOfPositiveNegative" />
+        <item itemvalue="Application.basic.StringSmashedTogether" />
+        <item itemvalue="Application.basic.IsEvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
