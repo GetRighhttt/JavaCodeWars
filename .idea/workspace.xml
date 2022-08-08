@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kyu7/ShortestWordInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/VowelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu7/VowelCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ReverseAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +37,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShortestWordInString">
-    <configuration name="ShortestWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu7.ShortestWordInString" />
+  <component name="RunManager" selected="Application.ReverseAString">
+    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ReverseAString" />
       <module name="BasicProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic.ConvertStringToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ConvertStringToArray" />
+    <configuration name="ShortestWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu7.ShortestWordInString" />
       <module name="BasicProblems" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.ShortestWordInString" />
         <item itemvalue="Application.kyu7.VowelCount" />
         <item itemvalue="Application.basic.ReturnBinaryNumbers" />
         <item itemvalue="Application.basic.RepeatCharactersInString" />
-        <item itemvalue="Application.basic.ConvertStringToArray" />
       </list>
     </recent_temporary>
   </component>
