@@ -1,4 +1,4 @@
-package basic;
+package kyu7;
 
 public class VowelCount {
 
