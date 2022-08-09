@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kyu7/SumMixedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu7/SmallestValueInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,32 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ReverseAString">
+    <configuration name="RepeatCharactersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.RepeatCharactersInString" />
+      <module name="BasicProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnBinaryNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ReturnBinaryNumbers" />
+      <module name="BasicProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.ReverseAString" />
       <module name="BasicProblems" />
@@ -51,47 +77,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu7.ShortestWordInString" />
-      <module name="BasicProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic.RepeatCharactersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.RepeatCharactersInString" />
-      <module name="BasicProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic.ReturnBinaryNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ReturnBinaryNumbers" />
-      <module name="BasicProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kyu7.VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kyu7.VowelCount" />
+      <module name="BasicProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kyu7.ShortestWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu7.ShortestWordInString" />
       <module name="BasicProblems" />
       <extension name="coverage">
         <pattern>
@@ -106,7 +106,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ReverseAString" />
-        <item itemvalue="Application.ShortestWordInString" />
+        <item itemvalue="Application.kyu7.ShortestWordInString" />
         <item itemvalue="Application.kyu7.VowelCount" />
         <item itemvalue="Application.basic.ReturnBinaryNumbers" />
         <item itemvalue="Application.basic.RepeatCharactersInString" />
