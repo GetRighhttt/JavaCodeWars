@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="" />
+    <list default="true" id="940ace49-dc0f-46cf-95a4-9608fb78b247" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/kyu7/CollatzConjectureLength.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +36,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MutliplesOf3And5">
-    <configuration name="MutliplesOf3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu6.MutliplesOf3And5" />
+  <component name="RunManager" selected="Application.CollatzConjectureLength">
+    <configuration name="CollatzConjectureLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu7.CollatzConjectureLength" />
       <module name="BasicProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu6.*" />
+          <option name="PATTERN" value="kyu7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnBinaryNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ReturnBinaryNumbers" />
+    <configuration name="MutliplesOf3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu6.MutliplesOf3And5" />
       <module name="BasicProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollatzConjectureLength" />
         <item itemvalue="Application.MutliplesOf3And5" />
         <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.kyu7.ShortestWordInString" />
